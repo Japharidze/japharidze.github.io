@@ -11,7 +11,7 @@ _Software engineer and Data scientist from Georgia_ <br>
 **Head of Data Analysis Unit** @ [BOG](https://bankofgeorgia.ge/ka/retail) _(Mar 2019 - present)_ <br>
 
 **Data Scientist** @ [BOG](https://bankofgeorgia.ge/ka/retail) _(Mar 2018 - Mar 2019)_ <br>
-One of the top banking system of Georgia
+One of the top banking systems in Georgia
 
 **Data Analyst** @ [112 Georgia](https://112.gov.ge/?page_id=3136https://112.gov.ge/lang=en) _(Sep 2015 - Mar 2018)_ <br>
 
@@ -23,17 +23,17 @@ Emergency response center of Georgia
 ## 📌 Projects
 
 **Migration/ETL** @ [BOG](https://bankofgeorgia.ge/) <br>
-Building platform for huge data migration, ETL pipeline tasks automation <br>
+Building platform for huge data migration. ETL pipeline tasks automation <br>
 **_Technologies used:_** Python, [Apache Airflow](https://airflow.apache.org/) <br>
 **_Research:_** Data Engineering <br>
 
 **Hashing & Clustering** @ [Upwork](https://www.upwork.com/freelancers/~01ec363d8d634666d4?viewMode=1) <br>
-Probably the biggest challenge I've ever faced. Very deep journey of handling huge amount of data sources and create data transformation to meet the need of categoring and managing the insights. <u>Details under NDA</u> <br>
+Probably the biggest challenge I've ever faced. Deep journey of handling huge amount of data sources and create data transformations to meet the need of categoring and managing the insights. <u>Details under NDA</u> <br>
 **_Technologies used:_** Python, AWS, Heroku, Postgres <br>
 **_Research:_** [Hashing](https://en.wikipedia.org/wiki/Hash_function), [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis) <br>
 
 **Live Dashboard** @ [Upwork](https://www.upwork.com/freelancers/~01ec363d8d634666d4?viewMode=1) <br>
-Visualization platform to monitor the process of trading bot financial contributions <br>
+Visualization platform to monitor the process of trading bot's financial contributions <br>
 **_Technologies used:_** Python, [Dash](https://plotly.com/dash/), AWS, Heroku, Postgres <br>
 
 **Model Evaluation Dashboard** @ [Upwork](https://www.upwork.com/freelancers/~01ec363d8d634666d4?viewMode=1) <br>
@@ -49,10 +49,6 @@ Building the physical prototype for a revolutionizing warehouse automation produ
 Developing full-stack app for incident monitoring&management<br>
 **_Technologies used:_** Python, Flask, React <br>
 
-**Incident Management System** @ [BOG](https://bankofgeorgia.ge/) <br>
-Developing full-stack app for incident monitoring&management<br>
-**_Technologies used:_** Python, Flask, React <br>
-
 **User profiling system** @ [BOG](https://bankofgeorgia.ge/) <br>
 Developing staff profiling platform, with data migration/gathering utilities <br>
 **_Technologies used:_** Python, Django, [Celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html), HTML/CSS/JS <br>
@@ -60,26 +56,26 @@ Developing staff profiling platform, with data migration/gathering utilities <br
 
 
 **Flask Scheduler** @ [BOG](https://bankofgeorgia.ge/) <br>
-Reporting service + aotumatisation/scheduling of Python/SQL jobs<br>
+Reporting service + Aotumation/scheduling of Python/SQL jobs<br>
 **_Technologies used:_** Python, Flask, [APScheduler](https://apscheduler.readthedocs.io/en/3.x/), HTML/CSS/JS <br>
 
 **Sentiment Analysis/LDA** @ [BOG](https://bankofgeorgia.ge/) <br>
-Topic modeling and defining client satisfactory respectively to topics <br>
+Topic modeling and Sentiment analysis on feedback data to define client satisfactory respectively to the topics <br>
 **_Technologies used:_** Python, nltk, gensim <br>
 **_Research:_** NLP, LDA <br>
 
 **Credit Risk Models** @ [BOG](https://bankofgeorgia.ge/) <br>
-Creating scoring models for different banking products to predit probability of default in order to making lending process (semi)automatic <br>
+Creating scoring models for different banking products to predit probability of default in order to make lending process (semi)automatic <br>
 **_Technologies used:_** Python, xgboost, sci-kit learn <br>
 **_Research:_** Data Science, Machine Learning, [xgboost](https://xgboost.readthedocs.io/en/stable/) <br>
 
 **Shift management** @ [112 Georgia](https://112.gov.ge/?page_id=3136https://112.gov.ge/lang=en) <br>
-Defining and monitoring KPI parameters for the call center. Building automate system for 24/7 live monitoring of workload and call distribution then adjusting shifts to meet the optimized handle time. <br>
+Defining and monitoring KPI parameters for the call center. Building automate system for 24/7 live monitoring of workload and call distribution, then adjusting shifts to meet the optimized handle time. <br>
 **_Technologies used:_** Python, SQL <br>
 **_Research:_** [Erlang Statistic](https://en.wikipedia.org/wiki/Erlang_distribution), Statistical Analysis, [Queueing Theory](https://en.wikipedia.org/wiki/Queueing_theory) <br>
 
 **Task manager** @ [112 Georgia](https://112.gov.ge/?page_id=3136https://112.gov.ge/lang=en) <br>
-Building an internal task management system for managing different types of tasks <br>
+Building an internal task management system. <br>
 **_Technologies used:_** ASP.NET MVC C#, IBM/SQL, HTML/CSS/JS <br>
 
 **User registration/login system** @ [112 Georgia](https://112.gov.ge/?page_id=3136https://112.gov.ge/lang=en) <br>
