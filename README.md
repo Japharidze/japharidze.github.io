@@ -1,6 +1,6 @@
 # Sergi Japharidze
 
-_Software engineer and Data scientist from Georgia_ <br>
+_Software engineer / Data scientist from Georgia_ <br>
 
 [Email](mailto:sergi.japharidze@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sergi-japharidze-66ab4583/) / [GitHub](https://github.com/Japharidze/) <br><br>
 
@@ -90,7 +90,7 @@ Building a user profiling system for existing platform <br>
 
 ## 👩🏼‍🎓 Education
 
-**Bachelor of Mathematics and Computer Science** <br> 
+**Bachelor of Mathematics** <br> 
 [Tbilisi State University](https://www.tsu.ge/en) - Tbilisi, Georgia (Sep 2014 - May 2018) <br><br>
 **Master of Mathematics and Computer Science** <br>
 [Tbilisi State University](https://www.tsu.ge/en) - Tbilisi, Georgia (Sep 2019 - May 2021) <br>
