@@ -1,4 +1,4 @@
- Sergi Japharidze
+# Sergi Japharidze
 
 _Software engineer and Data scientist from Georgia_ <br>
 
