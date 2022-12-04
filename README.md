@@ -90,7 +90,7 @@ Building a user profiling system for existing platform <br>
 
 ## 👩🏼‍🎓 Education
 
-**Bachelor of Mathematics** <br> 
-[Tbilisi State University](https://www.tsu.ge/en) - Tbilisi, Georgia (Sep 2014 - May 2018) <br><br>
-**Master of Mathematics and Computer Science** <br>
-[Tbilisi State University](https://www.tsu.ge/en) - Tbilisi, Georgia (Sep 2019 - May 2021) <br>
+**Master of Mathematics** <br>
+[Tbilisi State University](https://www.tsu.ge/en) - Tbilisi, Georgia (Sep 2019 - May 2021) <br><br>
+**Bachelor of Mathematics and Computer Science** <br> 
+[Tbilisi State University](https://www.tsu.ge/en) - Tbilisi, Georgia (Sep 2014 - May 2018) <br>
