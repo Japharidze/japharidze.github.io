@@ -23,7 +23,7 @@ Emergency response center of Georgia
 ## 📌 Projects
 
 **Migration/ETL** @ [BOG](https://bankofgeorgia.ge/) <br>
-Building platform for huge data migration. ETL pipeline tasks automation <br>
+Platform for huge data migration. ETL pipeline tasks automation <br>
 **_Technologies used:_** Python, [Apache Airflow](https://airflow.apache.org/) <br>
 **_Research:_** Data Engineering <br>
 
@@ -41,16 +41,16 @@ Visualization platform for exploring&testing financial model performances with d
 **_Technologies used:_** Python, [Bokeh](https://bokeh.org/), AWS, Heroku <br>
 
 **Warehouse Automation** @ [Upwork](https://www.upwork.com/freelancers/~01ec363d8d634666d4?viewMode=1) <br>
-Building the physical prototype for a revolutionizing warehouse automation product. <u>Details under NDA</u> <br>
+Physical prototype for a revolutionizing warehouse automation product. <u>Details under NDA</u> <br>
 **_Technologies used:_** Python, [pygame](https://www.pygame.org/news) <br>
 **_Research:_** [Graph Traversal](https://en.wikipedia.org/wiki/Graph_traversal), [Iterative Deepening](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search)<br>
 
 **Incident Management System** @ [BOG](https://bankofgeorgia.ge/) <br>
-Developing full-stack app for incident monitoring&management<br>
+Full-stack app for incident monitoring&management<br>
 **_Technologies used:_** Python, Flask, React <br>
 
 **User profiling system** @ [BOG](https://bankofgeorgia.ge/) <br>
-Developing staff profiling platform, with data migration/gathering utilities <br>
+Staff profiling platform, with data migration/gathering utilities <br>
 **_Technologies used:_** Python, Django, [Celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html), HTML/CSS/JS <br>
 **_Research:_** [CRM](https://en.wikipedia.org/wiki/Customer_relationship_management) <br>
 
@@ -65,21 +65,21 @@ Topic modeling and Sentiment analysis on feedback data to define client satisfac
 **_Research:_** NLP, LDA <br>
 
 **Credit Risk Models** @ [BOG](https://bankofgeorgia.ge/) <br>
-Creating scoring models for different banking products to predit probability of default in order to make lending process (semi)automatic <br>
+Scoring models for different banking products to predit probability of default in order to make lending process (semi)automatic <br>
 **_Technologies used:_** Python, xgboost, sci-kit learn <br>
 **_Research:_** Data Science, Machine Learning, [xgboost](https://xgboost.readthedocs.io/en/stable/) <br>
 
 **Shift management** @ [112 Georgia](https://112.gov.ge/?page_id=3136https://112.gov.ge/lang=en) <br>
-Defining and monitoring KPI parameters for the call center. Building automate system for 24/7 live monitoring of workload and call distribution, then adjusting shifts to meet the optimized handle time. <br>
+Define&Monitoring KPI parameters for the call center. Automate system for 24/7 live monitoring of workload and call distribution, then adjusting shifts to meet the optimized handle time. <br>
 **_Technologies used:_** Python, SQL <br>
 **_Research:_** [Erlang Statistic](https://en.wikipedia.org/wiki/Erlang_distribution), Statistical Analysis, [Queueing Theory](https://en.wikipedia.org/wiki/Queueing_theory) <br>
 
 **Task manager** @ [112 Georgia](https://112.gov.ge/?page_id=3136https://112.gov.ge/lang=en) <br>
-Building an internal task management system. <br>
+In-house task management system. <br>
 **_Technologies used:_** ASP.NET MVC C#, IBM/SQL, HTML/CSS/JS <br>
 
 **User registration/login system** @ [112 Georgia](https://112.gov.ge/?page_id=3136https://112.gov.ge/lang=en) <br>
-Building a user profiling system for existing platform <br>
+User profiling system for existing platform <br>
 **_Technologies used:_** ASP.NET MVC C#, IBM/SQL, HTML/CSS/JS <br>
 <br><br>
   
