@@ -6,9 +6,11 @@ _Software engineer / Data scientist from Georgia_ <br>
 
 ## 👩🏼‍💻 Working Experience
 
+**Deputy Head of Customer Caring Direction** [BOG](https://bankofgeorgia.ge/ka/retail) _(Sep 2024 - Mar 2026)_ <br>
+
 **Freelancer** @ [Upwork](https://www.upwork.com/freelancers/~01ec363d8d634666d4?viewMode=1) _(Nov 2021 - present)_ <br>
 
-**Head of Data Analysis Unit** @ [BOG](https://bankofgeorgia.ge/ka/retail) _(Mar 2019 - present)_ <br>
+**Head of Data Analysis Unit** @ [BOG](https://bankofgeorgia.ge/ka/retail) _(Mar 2019 - Sep 2024)_ <br>
 
 **Data Scientist** @ [BOG](https://bankofgeorgia.ge/ka/retail) _(Mar 2018 - Mar 2019)_ <br>
 One of the top banking systems in Georgia
