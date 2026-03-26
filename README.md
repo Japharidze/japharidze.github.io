@@ -6,7 +6,7 @@ _Software engineer / Data scientist from Georgia_ <br>
 
 ## 👩🏼‍💻 Working Experience
 
-**Deputy Head of Customer Caring Direction** [BOG](https://bankofgeorgia.ge/ka/retail) _(Sep 2024 - Mar 2026)_ <br>
+**Deputy Head of Customer Caring Direction** @ [BOG](https://bankofgeorgia.ge/ka/retail) _(Sep 2024 - Mar 2026)_ <br>
 
 **Freelancer** @ [Upwork](https://www.upwork.com/freelancers/~01ec363d8d634666d4?viewMode=1) _(Nov 2021 - present)_ <br>
 
