@@ -21,6 +21,10 @@ Agentic research system over SEC EDGAR filings. Financial figures come from XBRL
 Automated first-page and map-pack rank tracking for an SEO agency, replacing a manual quarterly process across thousands of keywords. Scheduled SERP collection with per-client location targeting, conservative business matching (domain for organic; name plus a second signal for map pack), explicit Found / Not Found / Failed / Review statuses so an uncertain result is never recorded as fact, and results written back to the client's spreadsheets. <br>
 **_Technologies used:_** Python, SERP APIs, [Google Sheets API](https://developers.google.com/sheets/api), Google Maps API <br>
 **_Research:_** Data Extraction, Entity Matching <br>
+**RTTM — Real-Time Transaction Monitoring** @ [BOG](https://bankofgeorgia.ge/) <br>
+Real-time fraud detection platform matching live payment transactions against account and customer data as they streamed in, with no reliable shared key between the transaction event and the account record it belonged to. Matching combined multiple weak signals rather than one strong field, scored by confidence, with anything below threshold routed to a human review queue instead of merged automatically. Full audit trail on every decision — regulators and internal auditors had to be able to trace any alert back to the exact source data that produced it. <u>Details under NDA</u> <br>
+**_Technologies used:_** Python, FastAPI, [Kafka](https://kafka.apache.org/), Spark, Postgres, Oracle, Redis <br>
+**_Research:_** Entity Resolution, Real-Time Stream Processing, Fraud Detection <br>
 **Migration/ETL** @ [BOG](https://bankofgeorgia.ge/) <br>
 Platform for huge data migration. ETL pipeline tasks automation <br>
 **_Technologies used:_** Python, [Apache Airflow](https://airflow.apache.org/) <br>
