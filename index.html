@@ -52,8 +52,8 @@ Emergency response center of Georgia
 
 <h2>📌 Projects</h2>
 
-<p><strong>Palimpsest — SEC Filings Research Agent</strong> @ <a href="https://github.com/Japharidze/">GitHub</a> <br>
-Agentic research system over SEC EDGAR filings. A deterministic rule engine triages a watchlist for red flags (going-concern language, auditor changes, late filings, restatements, metric deterioration); only escalated companies reach the expensive LLM layer, which reads risk factors and MD&amp;A and compares language across quarters. Every claim is cited to a source filing, and unresolved cases are flagged rather than guessed. Includes incremental EDGAR ingestion, an XBRL fact warehouse, an evaluation harness scoring retrieval and generation separately, and a web interface with agent trace and eval dashboards. <br>
+<p><strong>Palimpsest — SEC Filings Research Agent</strong> @ <a href="https://palimpsest.up.railway.app/">Live</a> · <a href="https://github.com/Japharidze/palimpsest">GitHub</a> <br>
+Agentic research system over SEC EDGAR filings. Financial figures come from XBRL and deterministic code; a language model reads only prose, comparing risk factors and MD&amp;A language across quarters to report what changed. Every claim is cited to a source filing and the citation is checked against the filing before the answer is returned, so an unsupported claim is flagged rather than shipped. Includes incremental EDGAR ingestion, an XBRL fact warehouse, a golden evaluation set scoring retrieval and generation separately, and a web interface with agent traces and an eval dashboard. <br>
 <strong><em>Technologies used:</em></strong> Python, <a href="https://langchain-ai.github.io/langgraph/">LangGraph</a>, Postgres, <a href="https://www.getdbt.com/">dbt</a>, FastAPI, React, vector search, LLM APIs <br>
 <strong><em>Research:</em></strong> <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">RAG</a>, Agent Orchestration, LLM Evaluation, <a href="https://en.wikipedia.org/wiki/XBRL">XBRL</a> <br></p>
 
