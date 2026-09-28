@@ -1,7 +1,7 @@
 # Sergi Japharidze
 _Software engineer / Data scientist from Georgia_ <br>
 [Email](mailto:sergi.japharidze@gmail.com) / [LinkedIn](https://www.linkedin.com/in/sergi-japharidze-66ab4583/) / [GitHub](https://github.com/Japharidze/) <br><br>
-## 👩🏼‍💻 Working Experience
+## 👩🏼‍💻 Work Experience
 **Freelancer** @ [Toptal](https://www.toptal.com/developers/resume/sergi-japharidze#QvPmEp) _(Aug 2026 - present)_ <br>
 **Freelancer** @ [Upwork](https://www.upwork.com/freelancers/~01ec363d8d634666d4?viewMode=1) _(Nov 2021 - present)_ <br>
 **Deputy Head of Customer Caring Direction** @ [BOG](https://bankofgeorgia.ge/ka/retail) _(Sep 2024 - Mar 2026)_ <br>
