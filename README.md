@@ -51,8 +51,10 @@ Physical prototype for a revolutionizing warehouse automation product. <u>Detail
 **Incident Management System** @ [BOG](https://bankofgeorgia.ge/) <br>
 Full-stack app for incident monitoring&management<br>
 **_Technologies used:_** Python, Flask, React <br>
-**User profiling system** @ [BOG](https://bankofgeorgia.ge/) <br>
-Staff profiling platform, with data migration/gathering utilities <br>
+**Staff profiling platform** @ [BOG](https://bankofgeorgia.ge/) <br>
+Internal platform that consolidates employee information scattered across 8 data sources (MSSQL, Oracle, file servers/S3, APIs) into evaluation-ready datasets for the bank's internal control function. Scheduled Celery and Airflow jobs handled data gathering and migration, and a Django web application gave reviewers one place to work. I also maintained the pipelines and the platform.
+Technologies used: Python, Django, Celery, Airflow, MSSQL, Oracle, AWS S3, HTML/CSS/JS
+Research: Data Integration, Internal Control <br>
 **_Technologies used:_** Python, Django, [Celery](https://docs.celeryq.dev/en/stable/getting-started/introduction.html), HTML/CSS/JS <br>
 **_Research:_** [CRM](https://en.wikipedia.org/wiki/Customer_relationship_management) <br>
 **Flask Scheduler** @ [BOG](https://bankofgeorgia.ge/) <br>
