@@ -49,8 +49,9 @@ Physical prototype for a revolutionizing warehouse automation product. <u>Detail
 **_Technologies used:_** Python, [pygame](https://www.pygame.org/news) <br>
 **_Research:_** [Graph Traversal](https://en.wikipedia.org/wiki/Graph_traversal), [Iterative Deepening](https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search)<br>
 **Incident Management System** @ [BOG](https://bankofgeorgia.ge/) <br>
-Full-stack app for incident monitoring&management<br>
+Full-stack case management platform that replaced spreadsheet-based review. Analysts previously worked through Excel exports of alerts produced by rules and models, looked each case up in separate banking software, and recorded their findings in personal files. The platform brings it all into one place: cases are generated and assigned in the system, alerts are sent automatically, and every review outcome is captured as structured data in Oracle. That removed the manual hand-offs and the unstructured results, so outcomes can be tracked and analyzed <br>
 **_Technologies used:_** Python, Flask, React <br>
+**_Research:_** Workflow Automation, Case Management <br>
 **Staff profiling platform** @ [BOG](https://bankofgeorgia.ge/) <br>
 Internal platform that consolidates employee information scattered across 8 data sources (MSSQL, Oracle, file servers/S3, APIs) into evaluation-ready datasets for the bank's internal control function. Scheduled Celery and Airflow jobs handled data gathering and migration, and a Django web application gave reviewers one place to work. I also maintained the pipelines and the platform.
 Technologies used: Python, Django, Celery, Airflow, MSSQL, Oracle, AWS S3, HTML/CSS/JS
